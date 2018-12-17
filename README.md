@@ -4,6 +4,6 @@ Code in Jupyter notebook &amp; Presentation of DeepLeariningItalia Meetup (Luiss
 
 
 
-![alt text](https://raw.githubusercontent.com/matteoalberti/DeepLearningItalia-Meetup-Dec2018-IntroDL/master/imgs/Diapositiva.png)
+![](https://raw.githubusercontent.com/matteoalberti/DeepLearningItalia-Meetup-Dec2018-IntroDL/master/imgs/Diapositiva.png)
 
-![alt text](https://raw.githubusercontent.com/matteoalberti/DeepLearningItalia-Meetup-Dec2018-IntroDL/master/imgs/a5.png)
+![](https://raw.githubusercontent.com/matteoalberti/DeepLearningItalia-Meetup-Dec2018-IntroDL/master/imgs/a5.png)
