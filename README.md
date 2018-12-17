@@ -9,7 +9,7 @@ This Repository shows all the code and Presentation of DeepLearingItalia Meetup 
 
 ## Contents
 
-![](imgs/2.PNG)
+![](imgs/aa2.PNG)
 
 
 
