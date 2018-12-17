@@ -5,5 +5,11 @@
 
 ![](imgs/Diapositiva.PNG)
 
-![](https://github.com/matteoalberti/DeepLearningItalia-Meetup-Dec2018-IntroDL/blob/master/imgs/a5.png)
+This Repository shows all the code and Presentation of DeepLearingItalia Meetup | Introduction to Deep Learning 
+
+## Contents
+
+![](imgs/2.PNG)
+
+![](imgs/a5.gif)
 
