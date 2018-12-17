@@ -13,6 +13,6 @@ This Repository shows all the code and Presentation of DeepLearingItalia Meetup 
 
 
 
-## Enjoy :)
+## Enjoy :) 
 ![](imgs/a5.gif)
 
